@@ -9,3 +9,5 @@ custom-trained PyTorch neural network for ASL gesture classification. A Streamli
 provides easy usage, making communication accessible in both directions. The result is an
 interactive application that demonstrates the power of AI-driven assistive technology in
 bridging the communication divide between ASL users and people who do not know it.
+
+Dataset Link: https://www.kaggle.com/datasets/grassknoted/asl-alphabet/data
