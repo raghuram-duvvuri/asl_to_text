@@ -11,3 +11,32 @@ interactive application that demonstrates the power of AI-driven assistive techn
 bridging the communication divide between ASL users and people who do not know it.
 
 Dataset Link: https://www.kaggle.com/datasets/grassknoted/asl-alphabet/data
+
+## How to Run
+
+1. Clone the repository
+
+```bash
+git clone https://github.com/raghuram-duvvuri/asl_recognition
+cd asl_recognition
+```
+
+2. Use Python 3.10 and create a virtual environment
+
+```bash
+python3.10 -m venv venv
+source venv/bin/activate   # Mac/Linux
+venv\Scripts\activate      # Windows
+```
+
+3. Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+4. Run the app
+
+```bash
+streamlit run web_integration.py
+```
