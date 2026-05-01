@@ -1,4 +1,7 @@
 # Real-Time ASL Recognition and Bidirectional Learning System
+
+### Abstract
+
 American Sign Language (ASL) serves as the primary mode of communication for millions of
 people in the deaf community, yet the barrier between ASL users and people who do not know
 it remains a significant challenge in everyday interactions. This project addresses the
@@ -12,7 +15,7 @@ bridging the communication divide between ASL users and people who do not know i
 
 Dataset Link: https://www.kaggle.com/datasets/grassknoted/asl-alphabet/data
 
-## How to Run
+### How to Run
 
 1. Clone the repository
 
