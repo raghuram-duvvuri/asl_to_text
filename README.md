@@ -20,8 +20,8 @@ Dataset Link: https://www.kaggle.com/datasets/grassknoted/asl-alphabet/data
 1. Clone the repository
 
 ```bash
-git clone https://github.com/raghuram-duvvuri/asl_recognition
-cd asl_recognition
+git clone https://github.com/raghuram-duvvuri/asl-recognition
+cd asl-recognition
 ```
 
 2. Use Python 3.10 and create a virtual environment
